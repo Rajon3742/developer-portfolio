@@ -63,13 +63,18 @@ section{
 #baby-web{
     border-left: 7px solid blue;
 }
-.link-media{
-    
-}
 footer {
     text-align: center;
     text-size: 10px;
     text-size:20px;
     box-shadow: 5px 5px 20px red;
 
+}
+.link-media{
+    text-decoration: solid;
+    background-image:repeating-radial-gradient(red, orange) ;
+    color: blue;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-bottom: 4px;
 }
