@@ -30,3 +30,19 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.link-mutton{
+    text-decoration: solid;
+    background-image:repeating-radial-gradient(red, orange) ;
+    color: blue;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-bottom: 4px;
+}
+.top-ban{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.top-gun{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
